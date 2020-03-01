@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "eadproject",
+            "dialect": "MySQL",
+            "name": "MyDbConnection",
+            "password": "sarfaraz",
+            "port": 3306,
+            "server": "localhost",
+            "username": "root"
+        }
+    ]
+}
